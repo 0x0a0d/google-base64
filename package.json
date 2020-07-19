@@ -1,0 +1,21 @@
+{
+  "name": "google-base64",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/0x0a0d/google-base64",
+    "type": "git"
+  },
+  "keywords": [
+    "base64", "google"
+  ],
+  "author": "0x0a0d",
+  "license": "ISC"
+}
